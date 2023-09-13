@@ -2,7 +2,7 @@
 print(" Hello Enter your  name: shira ")
 
 #2
-print(" Hello Enter your adress: hod hasharon ")
+print(" Hello Enter your adress: hod  ")
 
 
 
